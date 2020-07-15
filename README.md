@@ -6,6 +6,9 @@
 - 🎨 I like generative art and programatic animation
 - 🦜 [You can find me on twitter](https://twitter.com/fstokesman)
 
+
+[![francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=francisrstokes)](https://github.com/francisrstokes)
+
 <!--
 **francisrstokes/francisrstokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
