@@ -2,7 +2,7 @@
 
 - 📽 I'm creating JavaScript computer science videos as [Low Level JavaScript](https://www.youtube.com/c/lowleveljavascript) on YouTube
 - 🇬🇧 I'm a British dev living in the Netherlands 🇳🇱
-- 🤖 I'm a fan of FP and FPGA
+- 🤖 I love working at the hardware/software interface
 - 🎨 I like generative art and programatic animation
 - 🦜 [You can find me on twitter](https://twitter.com/fstokesman)
 
