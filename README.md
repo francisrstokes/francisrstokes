@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Francis Stokes
 
-- 📽 I'm creating JavaScript computer science videos as [Low Level JavaScript](https://www.youtube.com/c/lowleveljavascript) on YouTube
+- 📽 I'm creating low level programming videos as [Low Byte Productions](https://www.youtube.com/@lowbyteproductions) on YouTube
 - 🇳🇱 I'm a firmware engineer living in the Netherlands
 - 🤖 I love working at the hardware/software interface
 - 🎨 I like generative art and programatic animation
