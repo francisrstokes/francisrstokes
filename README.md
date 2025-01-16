@@ -4,7 +4,7 @@
 - 🇳🇱 I'm a firmware engineer living in the Netherlands
 - 🤖 I love working at the hardware/software interface
 - 🎨 I like generative art and programatic animation
-- 🦋 [You can find me on bluesky](https://francisstokes.bsky.social)
+- 🦋 [You can find me on bluesky](https://bsky.app/profile/francis.codes)
 
 <!--
 **francisrstokes/francisrstokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
